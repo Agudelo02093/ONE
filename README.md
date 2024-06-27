@@ -4,6 +4,10 @@
 - prompt()
 - console.log
 - parseInt()
+- Math.floor();
+- Math.random();
+- parseInt();
+- typeof();
 
 **Estructura de control de flujo**
 - while()
