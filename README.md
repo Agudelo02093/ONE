@@ -25,7 +25,8 @@
 - Mayor o igual >=
 
 
-**Tips**
+**Anotaciones**
 - **Condicionales anidados:** Dentro de la condición else se pueden poner condiciones.
 - En el uso de las variables, primero hay que declararlas y luego darle usarlas dentro de la función necesaria. De lo contrario nos va a arrojar errores.
 - En condicionales, primero poner la variable y luego lo que quieres que haga.
+- **Events:** Son acciones que los usuarios pueden hacer para interactuar con el sistema (Clicks, pulsar botones, hovers, etc.)
