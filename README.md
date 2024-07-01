@@ -34,5 +34,5 @@
 - En condicionales, primero poner la variable y luego lo que quieres que haga.
 - **Events:** Son acciones que los usuarios pueden hacer para interactuar con el sistema (Clicks, pulsar botones, hovers, etc.)
 - Para acceder al último elemento de un array es con -1.
-    EJ: let ultimo= flutas.length - 1;
-        console.log(ultimo);
+  EJ: let ultimo= flutas.length - 1;
+  console.log(ultimo);
