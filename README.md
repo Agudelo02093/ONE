@@ -35,4 +35,4 @@
 - **Events:** Son acciones que los usuarios pueden hacer para interactuar con el sistema (Clicks, pulsar botones, hovers, etc.)
 - Para acceder al último elemento de un array es con -1. <br>
   EJ: let ultimo= flutas.length - 1;<br>
-  console.log(ultimo);<br>
+      console.log(ultimo);<br>
