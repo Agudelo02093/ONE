@@ -39,6 +39,7 @@
 
 
 <H3>GitHub</H3>
+
 **Publicar proyecto**
 - Dentro del repo ir a settings.
 - Buscar en el menú izquierdo la opción de pages.
