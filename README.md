@@ -36,3 +36,13 @@
 - Para acceder al último elemento de un array es con -1. <br>
   EJ: let ultimo= flutas.length - 1;<br>
       console.log(ultimo);<br>
+
+
+<H3>GitHub</H3>
+**Publicar proyecto**
+- Dentro del repo ir a settings.
+- Buscar en el menú izquierdo la opción de pages.
+- 'Deploy for a branch'
+- Elegir la rama -> Save
+- En el menú derecho de la rama que se publico estará el link del proyecto que se publicó.
+- **Ver el link: **ir de nuevo a settings - pages (Allí estará el link publico del proyecto)
