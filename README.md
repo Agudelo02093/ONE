@@ -47,3 +47,10 @@
 - Elegir la rama -> Save
 - En el menú derecho de la rama que se publico estará el link del proyecto que se publicó.
 - **Ver el link: **ir de nuevo a settings - pages (Allí estará el link publico del proyecto)
+
+
+<H3>CSS</H3>
+
+- Es una buena practica resetear el css de cualquier proyect
+- Para que los elementos en css no se salngan del elemento padre es necesario usar border-box
+- 
