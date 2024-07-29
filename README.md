@@ -53,4 +53,6 @@
 
 - Es una buena practica resetear el css de cualquier proyect
 - Para que los elementos en css no se salngan del elemento padre es necesario usar border-box
-- 
+- Cuando pongo dos valores en algun atributo css, el primero es para hacerlo de manera vertical y el segundo para hacerlo de manera horizontal
+  Ej: margin: 10px(V) 0(H).
+
