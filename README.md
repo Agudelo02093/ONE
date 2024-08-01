@@ -55,5 +55,6 @@
 - Para que los elementos en css no se salngan del elemento padre es necesario usar border-box
 - Cuando pongo dos valores en algun atributo css, el primero es para hacerlo de manera vertical y el segundo para hacerlo de manera horizontal
   Ej: margin: 10px(V) 0(H).
+  
   ![image](https://github.com/user-attachments/assets/a888b7b7-fd6b-452f-87e4-db4c1db9d125)
 
